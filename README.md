@@ -22,3 +22,9 @@ Takže jsem navrhl mobilní aplikaci proprodej a nákup učebnic.
 ![Seznam učebnic](./image/seznam.png)
 ![Detail učebnice](./image/detail.png)
 ![Nová učebnice](./image/novy.png)
+
+##Barevná paleta
+- #1A1A1A
+- #FF344C
+- #FFFFFF
+- #2F65B0
