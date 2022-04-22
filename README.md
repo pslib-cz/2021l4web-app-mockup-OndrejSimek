@@ -14,6 +14,8 @@ Takže jsem navrhl mobilní aplikaci proprodej a nákup učebnic.
 ## Technická funkčnost
 
 - Nejsem si jistý, zda-li je potřeba login, nebo budeme věřit lidem, že nebudou shitpostit a nebudou tam dávat blbosti.
+- Prodej učebnice bude ukončen v tu chvíli, kdy bude button **Je k dispozici přepnut** do ne.
+-  
 
 ## Design
 ![Login stránka](./image/login.png)
